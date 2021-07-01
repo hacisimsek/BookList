@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "name": "Kuyucakı Yusuf",
+      "author": "Sabahattin Ali",
+      "imageURL": "https://cdn03.ciceksepeti.com/cicek/kc165403-1/L/kuyucakli-yusuf-sabahattin-ali-kc165403-1-35c047dcdd0d4ff7ad95abb5e98d9409.jpg",
+      "overview": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, et? Tenetur, voluptas? A tempora voluptas alias officia delectus cupiditate. Consequatur voluptates expedita architecto cumque veniam blanditiis eligendi adipisci, possimus dolores.",
+      "publisher": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+      "id": 1
+    },
+    {
+      "name": "Fahrenheit 450",
+      "author": "Ray Bradbury",
+      "imageURL": "https://img.kitapyurdu.com/v1/getImage/fn:11381738/wh:true/miw:200/mih:200",
+      "overview": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, et? Tenetur, voluptas? A tempora voluptas alias officia delectus cupiditate. Consequatur voluptates expedita architecto cumque veniam blanditiis eligendi adipisci, possimus dolores.",
+      "publisher": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+      "id": 2
+    },
+    {
+      "name": "Bir Ömür Nasıl Yaşanır!",
+      "author": "Ilber Ortaylı",
+      "imageURL": "https://i.dr.com.tr/cache/600x600-0/originals/0001796150001-1.jpg",
+      "overview": "Daha anlamlı yaşamak için Ilber Ortaylı’dan tavsiyeler…\n“Cesur olun. Kendinizi rahat hissettiğiniz alanın dışında pencereler açın. Farklı dünyalarla ancak böyle tanışırsınız. Ben hep yerimde dursaydım, dünyamı değiştirecek insanları aramasaydım, bugün tanıdığınız ben olmazdım. Bir insanın bittiği an, miskinliğe esir olduğu andır. İnsan, konforundan vazgeçmeyi göze almalıdır. Kendi dünyasını yerinden kendisi oynatmalıdır.”",
+      "publisher": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+      "id": 4
+    },
+    {
+      "name": "Değirmen",
+      "author": "Sabahattin Alı",
+      "imageURL": "https://kbimages1-a.akamaihd.net/d179b2b3-8891-439d-8258-0109c31697f2/1200/1200/False/degirmen-tam-metin.jpg",
+      "overview": "Sabahattin Ali'nin muhteşem öykü kitaplarından biri olan Değirmen, okuyucuya yazarın kendine özgü özgür sesiyle dile getirdiği birbirinden güzel öyküler sunuyor. Kitaba ismini veren Değirmen adlı öyküde ise bir çingenenin aşkını, aşkı için yapabileceklerini anlatıyor.\nÇingeneler, yaz gelince kafile halinde köy köy dolaşır, konaklayabilecekleri, çadırlarını kurabilecekleri bir yer ararlar. İşte, Atmaca'nın kafilesi de böyle bir yer ararken uzaklarda bir değirmen görürler. Etrafındaki köylülere bakılırsa işlek bir değirmendir. Değirmene yaklaşır ve çengilerini çalmaya başlarlar. Bunu duyan köylüler kapıya toplanmaya başlar. En son da değirmenci görünür. Çingenelere biraz erzak verip ve güler yüz göstererek onları kabul ettiklerini gösterirler. Çingeneler de derhal çadırlarını kurmaya başlarlar.",
+      "publisher": "Haci simsek",
+      "id": 5
+    }
+  ]
+}
